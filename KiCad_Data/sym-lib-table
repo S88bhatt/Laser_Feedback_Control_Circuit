@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Complex_Op_Amps_Footprints")(type "KiCad")(uri "${KIPRJMOD}/Complex_Op_Amps_Footprints.kicad_sym")(options "")(descr ""))
+)
