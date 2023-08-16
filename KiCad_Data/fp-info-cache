@@ -1,4 +1,4 @@
-21704301424252088
+21705993806651431
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6383,6 +6383,13 @@ SPST Switch
 0
 3
 3
+Complex_Op_Amps_Footprints
+Small Capacitor
+
+
+0
+2
+2
 Connector
 Banana_Cliff_FCR7350x_S16N-PC_Horizontal
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
