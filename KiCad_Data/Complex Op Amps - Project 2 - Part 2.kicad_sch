@@ -9630,7 +9630,7 @@
     (property "Datasheet" "https://www.mouser.ca/datasheet/2/240/gt-3050616.pdf" (at 83.312 104.902 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Name" "" (at 83.82 100.584 0)
+    (property "Name" "Current Polarity" (at 83.82 100.584 0)
       (effects (font (size 1.27 1.27)))
     )
     (pin "1" (uuid 665c636d-0db1-4b2e-a930-587b6290c6e4))
