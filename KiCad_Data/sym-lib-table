@@ -1,5 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "Complex_Op_Amps_symbols")(type "KiCad")(uri "C:/Users/samar/OneDrive/Desktop/SAMARPREET/KiCad/7.0/projects/Complex Op Amps - Project 2 - Part 2 - Prototype1 - Corrected 08-16-2023/Complex_Op_Amps_symbols.kicad_sym")(options "")(descr ""))
-  (lib (name "Complex_Op_Amps_Footprints")(type "KiCad")(uri "C:/Users/samar/OneDrive/Desktop/SAMARPREET/KiCad/7.0/projects/Complex Op Amps - Project 2 - Part 2 - Prototype1 - Corrected 08-16-2023/Complex_Op_Amps_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "Complex_Op_Amps_Footprints")(type "KiCad")(uri "C:/Users/samar/OneDrive/Desktop/SAMARPREET/KiCad/7.0/projects/OLD/Complex Op Amps - Project 2 - Part 2/Complex_Op_Amps_Footprints.kicad_sym")(options "")(descr ""))
+  (lib (name "Complex_Op_Amps_symbols")(type "KiCad")(uri "C:/Users/samar/OneDrive/Desktop/SAMARPREET/KiCad/7.0/projects/OLD/Complex Op Amps - Project 2 - Part 2 - Prototype1 - Corrected 08-16-2023/Complex_Op_Amps_symbols.kicad_sym")(options "")(descr ""))
 )
