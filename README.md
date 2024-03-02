@@ -1,5 +1,5 @@
-# Op_Amp_Gain_Circuit
-Contains all files for the laser feedback control circuit.
+# Laser Feedback Control Circuit
+Contains all files in separate folders for the laser feedback control circuit.
 
 ## KiCAD
 KiCAD Files that are up to date with the most recent and correct version of the circuit, including the PCB layout, schematic, and libraries for footprints and schematic components.
